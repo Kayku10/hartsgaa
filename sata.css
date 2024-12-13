@@ -1,0 +1,15 @@
+body{
+    background:linear-gradient(#31cbf2,#c71456,rgb(200, 222, 63),rgb(175, 203, 175))
+}
+h1{
+    color: rgb(172, 226, 255);
+    background-color: black;
+ }
+ h2{
+    background-color: rgb(197, 227, 21);
+ }
+ p{
+    background-color: black;
+    color: aliceblue;
+ }
+ 
